@@ -1,4 +1,4 @@
-Olá, estarei documentando nesse arquivo o processo de desenolvimento da aplicação! 
+Olá, estarei documentando nesse arquivo o processo de desenvolvimento da aplicação! 
 
 Inicialmente, as tecnologias escolhidas foram Laravel para salvar os dados, e Blade para o frontend.
 
