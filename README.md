@@ -25,5 +25,5 @@ Você também pode ter essa ferramenta de comparação de datas em sua máquina,
 <li> Fazer o donwload do laravel utilizando o HERD; </li>
 <li> Clonar este repositório em sua máquina; </li>
 <li> No caminho resources/views/home.blade.php, na linha 125, você deve colocar seu Token da Api WeatherStack; </li>
-<li> Abra seu localhost utilizando o link <b>X"nome_do_seu_repositorio".test</b>; </li>
+<li> Abra seu localhost utilizando o link <b>"nome_do_seu_repositorio".test</b>; </li>
 <li> Se divirta descobrindo o tempo de várias cidades! </li>
